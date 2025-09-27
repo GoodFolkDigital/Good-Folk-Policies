@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Delete Your Account - Good Cheer Deliveries</h1>
+<h1>Delete Your Account with Good Folk Digital</h1>
 
 <p>Effective Date: Sep 27, 2025</p>
 
