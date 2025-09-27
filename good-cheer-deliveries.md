@@ -3,15 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Delete Your Account - Good Cheer Deliveries</title>
-<style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; line-height: 1.6; color: #333; }
-    h1 { color: #222; }
-    h2 { color: #444; margin-top: 30px; }
-    a { color: #007bff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul { margin-left: 20px; }
-</style>
 </head>
 <body>
 
